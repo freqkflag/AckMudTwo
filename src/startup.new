@@ -1,0 +1,7 @@
+#!/bin/sh
+#
+# /bin/sh replacement for startup, by Spectrum
+#
+
+    echo "You must cp the appropriate startup file according to your
+operation system to startup.new"
